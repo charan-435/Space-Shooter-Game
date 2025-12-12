@@ -73,11 +73,13 @@ After game over, press `r` to restart the game.
 - Enemy speed, spawn rate, and movement increase as player score increases.
 
 ## Requirements
-- *Linux / macOS terminal* (tested on Ubuntu)  
+- *Linux* (tested on Ubuntu)  
 - g++ (C++ compiler)  
 - ncurses library  
 
 ## To run
 
-- use *./main*
+- Download the folder and open linux terminal in it.
+- Use command *make* to install dependencies and compile files.
+- Now use *./main*.
 
